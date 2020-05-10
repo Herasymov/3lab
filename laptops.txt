@@ -1,0 +1,1 @@
+Laptop{producer='Acer', model='Aspire5', year=2019}
